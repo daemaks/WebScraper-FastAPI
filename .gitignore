@@ -1,0 +1,9 @@
+*.log
+*.pog
+*.pyc
+*.json
+__pycache__/
+
+# Enviroment
+.venv/
+venv/
